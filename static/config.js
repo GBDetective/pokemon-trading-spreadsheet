@@ -5,14 +5,6 @@
 var spreadsheetId = "1dHH2c3xhfwzB1ua94hn4GKmeAvKpFb8EVtrBryBoFfA";
 
 // ***********************************************************************************
-// Position of Breedables, Shinies and Wants worksheet
-// ***********************************************************************************
-// If you don't have one worksheet, set the value to -1 to disable it
-var breedablesWorksheet = 1;
-var shiniesWorksheet = 2;
-var wantsWorksheet = 3;
-
-// ***********************************************************************************
 // Your FC and IGN
 // ***********************************************************************************
 var friendCode = "3668-7290-5168";
