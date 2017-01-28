@@ -19,4 +19,4 @@ var contactUrl = "http://reddit.com/u/GBDetective";
 // URL of your PGL trainer icon (optional)
 // ***********************************************************************************
 // Download it from the Pokémon Global Link and re-upload to an image-sharing website
-var trainerIconUrl = "";
+var trainerIconUrl = "http://i.imgur.com/4gKOwrv.png";
